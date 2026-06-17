@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'trx_addons_icons';
-  src: url('../font/trx_addons_icons.eot%3F60489628');
-  src: url('../font/trx_addons_icons.eot%3F60489628') format('embedded-opentype'),
-       url('../font/trx_addons_icons.woff2%3F60489628') format('woff2'),
-       url('../font/trx_addons_icons.woff%3F60489628') format('woff'),
-       url('../font/trx_addons_icons.ttf%3F60489628') format('truetype'),
-       url('../font/trx_addons_icons.svg%3F60489628') format('svg');
+  src: url('../font/trx_addons_icons.eot');
+  src: url('../font/trx_addons_icons.eot') format('embedded-opentype'),
+       url('../font/trx_addons_icons.woff2') format('woff2'),
+       url('../font/trx_addons_icons.woff') format('woff'),
+       url('../font/trx_addons_icons.ttf') format('truetype'),
+       url('../font/trx_addons_icons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
